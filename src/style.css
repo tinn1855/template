@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'GoogleSans-Medium';
+    src: url('../fonts/GoogleSans-Medium.ttf');
+}
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  src: url('../fonts/GoogleSans-Bold.ttf');
+}
+
+
+body{
+  /* font-family: 'GoogleSans-Medium'; */
+  /* font-family: 'GoogleSans-Bold'; */
+} 
+
